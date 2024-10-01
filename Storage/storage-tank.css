@@ -1,0 +1,26 @@
+
+.row:hover #a{
+    background-color:  rgb(2, 2, 98);
+    color: white;
+}
+
+#a{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 11px;
+    color: rgb(2, 2, 98);
+}
+
+#a:hover{
+    background-color:  rgb(2, 2, 98);
+    color: white;
+}
+
+.card:hover{ 
+    border: 2px solid orange;
+}
+
+.card-body:hover  #b{
+    color: orange;
+    background-color: white;
+}
